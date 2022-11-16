@@ -1,0 +1,7 @@
+# Project exclude paths
+/Demo2/node_modules/
+/LoginSystem/node_modules/
+/NodeJS_API/node_modules/
+/NodeJS_Sequelize/node_modules/
+/NodeJS_Sequelize_JWT/node_modules/
+/Sequelize_Join/node_modules/
